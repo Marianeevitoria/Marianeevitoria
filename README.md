@@ -3,7 +3,7 @@
 Meu nome é Mariane Vitória 
 
 - Sou estudante na Alura
-- Sou apaixonada por kpop
+- Gosto de coisas que estao relacionadas a TI
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
